@@ -1,11 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package selection_sort;
 import java.util.*;
-public class Selection_Sort {
+public class selection_sort {
     public static void main(String[] args) {
         int pos; //Declaring a position variable
         int min; //Declaring a variable to hold minimum number
